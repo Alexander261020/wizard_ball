@@ -1,4 +1,4 @@
-hello = [
+greetings = [
   "Привет, дорогой друг. Отвечаю на твой вопрос...",
   "Кто вопрошает, тот получит ответ:",
   "Здравствуй, смертный. Сегодня для тебя такой ответ:",
@@ -34,7 +34,7 @@ answers = [
   "Весьма сомнительно"
 ]
 
-puts hello.sample
+puts greetings.sample
 sleep 2
 puts 
 puts answers.sample
